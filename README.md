@@ -1,7 +1,77 @@
-<img width="736" height="414" alt="889038782735376202" src="https://github.com/user-attachments/assets/44b84d03-aad4-43ac-b97c-5f3951ea0f06" />
+<!-- CYBERPUNK HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=32,233,242,255,20,147&height=220&section=header&text=NEON%20MATRIX%20INITIALIZED&fontSize=36&animation=twinkling" width="100%" />
+</p>
 
-freedom is not an inheritance;
+<!-- HEADLINE & PRONOUNS -->
+<h1 align="center">⚡ SYSTEMS ONLINE: Hello, I'm a Developer building the future.</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/PRONOUNS-they%2Fthem-ff007f?style=for-the-badge&logoColor=00f2fe" alt="Pronouns">
+</p>
 
-**backend // mobile applications // cloud**
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=DATA_LOGS_ACCESSED&color=ff007f&style=flat-square" alt="Views" />
+</p>
 
-[website](https://praneethworks.space) | [linkedin](https://www.linkedin.com/in/praneeth-jairam/) | [leetcode](https://leetcode.com/u/speedospide/) | [email](saipraneethjairam@gmail.com) | [X](https://x.com/impraneethh)
+---
+
+### 🛠️ CORE TECH STACK
+
+<!-- CYBERPUNK TECH BADGES -->
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=00f2fe" />
+  
+  <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=00f2fe" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 SYSTEM METRICS
+
+<!-- NEON STATS GRID -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <!-- GitHub Stats Card (Tokyonight Theme) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00f2fe&icon_color=ff007f" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <!-- Streak Counter (Tokyonight Theme) -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&fire=ff007f&ring=00f2fe" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 ESTABLISH COMMS Link
+
+<!-- NEON SOCIAL BADGES -->
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00f2fe" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ff007f" alt="Twitter" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=00f2fe" alt="Email" />
+  </a>
+</p>
+
+<!-- GLOWING BOTTOM DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/BullsEye.gif" width="100%" height="4px" />
+</p>
