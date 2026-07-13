@@ -1,8 +1,7 @@
 <!-- HEADER BANNER IMAGE -->
 <!-- Replace the URL inside src="" with your own custom image link if desired -->
 <p align="center">
-  <img src="<img width="736" height="414" alt="889038782735376202" src="https://github.com/user-attachments/assets/da1d2537-e50b-4c30-812b-66b89d2e09da" />
-" alt="Header Art" width="100%" />
+  <img src="<img width="736" height="414" alt="889038782735376202_compressed" src="https://github.com/user-attachments/assets/62ad0526-a438-4aa0-ab47-9cf1d1e8645b" />
 </p>
 
 ---
