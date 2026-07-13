@@ -1,12 +1,12 @@
 <!-- HEADLINE & PRONOUNS -->
 <h1 align="center"> Backend Developer | AI Engineering | Mobile Applications </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/PRONOUNS-they%2Fthem-ff007f?style=for-the-badge&logoColor=00f2fe" alt="Pronouns">
+  <img src="https://img.shields.io/badge/PRONOUNS-he%2Fhim-ff007f?style=for-the-badge&logoColor=00f2fe" alt="Pronouns">
 </p>
 
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thecountershadow&label=DATA_LOGS_ACCESSED&color=ff007f&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=thecountershadow&label=STALKERS&color=ff007f&style=flat-square" alt="Views" />
 </p>
 
 ---
