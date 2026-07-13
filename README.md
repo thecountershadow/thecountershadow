@@ -1,10 +1,5 @@
-<!-- CYBERPUNK HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=32,233,242,255,20,147&height=220&section=header&text=NEON%20MATRIX%20INITIALIZED&fontSize=36&animation=twinkling" width="100%" />
-</p>
-
 <!-- HEADLINE & PRONOUNS -->
-<h1 align="center"> Backend Developer | AI Engineering | Mobile </h1>
+<h1 align="center"> Backend Developer | AI Engineering | Mobile Applications </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/PRONOUNS-they%2Fthem-ff007f?style=for-the-badge&logoColor=00f2fe" alt="Pronouns">
 </p>
