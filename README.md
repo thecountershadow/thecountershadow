@@ -4,4 +4,4 @@ freedom is not an inheritance;
 
 **backend // mobile applications // cloud**
 
-[website](https://praneethworks.space) | [linkedin](https://www.linkedin.com/in/praneeth-jairam/) | [leetcode]((https://leetcode.com/u/speedospide/)) | [email](saipraneethjairam@gmail.com) [X]((https://x.com/impraneethh))
+[website](https://praneethworks.space) | [linkedin](https://www.linkedin.com/in/praneeth-jairam/) | [leetcode](https://leetcode.com/u/speedospide/) | [email](saipraneethjairam@gmail.com) | [X](https://x.com/impraneethh)
