@@ -6,7 +6,7 @@
 
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=DATA_LOGS_ACCESSED&color=ff007f&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=thecountershadow&label=DATA_LOGS_ACCESSED&color=ff007f&style=flat-square" alt="Views" />
 </p>
 
 ---
