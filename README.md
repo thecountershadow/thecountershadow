@@ -1,6 +1,6 @@
 <!-- GLITCHING CINEMATIC BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=100&lines=CORE+OVERLORD+ONLINE...;AI+%2F+ML+ENGINEERING;MOBILE+APPLICATIONS;BACKEND+DEVELOPMENT" alt="Glitch Text Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=100&lines=CORE+OVERLORD+ONLINE...;I Am Praneeth Jairam" alt="Glitch Text Banner" />
 </p>
 
 <!-- HEADLINE & PRONOUNS -->
