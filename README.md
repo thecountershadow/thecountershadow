@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hey, I Am Praneeth Jairam</h1>
+<h1 data-importer="text" align="center">Hey, I am Praneeth Jairam</h1>
 
 ###
 
