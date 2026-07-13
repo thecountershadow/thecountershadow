@@ -1,7 +1,7 @@
-![Banner Image]<img width="736" height="414" alt="889038782735376202" src="https://github.com/user-attachments/assets/44b84d03-aad4-43ac-b97c-5f3951ea0f06" />
+<img width="736" height="414" alt="889038782735376202" src="https://github.com/user-attachments/assets/44b84d03-aad4-43ac-b97c-5f3951ea0f06" />
 )
 
-"there's only two kinds of people in the world."
+"freedom is not an inheritance; it is a sculpture carved from effort."
 
 **backend // cybersecurity // linux**
 
